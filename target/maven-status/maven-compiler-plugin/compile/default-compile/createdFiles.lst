@@ -1,0 +1,12 @@
+control\ClienteServlet.class
+model\Connexion.class
+com\mycompany\sistemagestionweb\resources\JakartaEE10Resource.class
+model\Producto.class
+model\CategoriaDao.class
+model\ClienteDao.class
+model\Administrador.class
+model\Categoria.class
+com\mycompany\sistemagestionweb\JakartaRestConfiguration.class
+model\AdministradorDao.class
+model\Cliente.class
+model\ProductoDao.class
